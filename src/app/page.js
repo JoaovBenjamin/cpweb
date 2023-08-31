@@ -1,4 +1,4 @@
-import React from "react"
+'use client'
 import { Botao } from "./componentes/botao"
 import { Nav } from "./componentes/nav"
 import { Linkp } from "./componentes/link"
